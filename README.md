@@ -15,7 +15,7 @@ Công cụ dòng lệnh Python chạy trên **Linux Terminal** phục vụ kiể
 ## Cấu trúc thư mục
 
 ```text
-sensor-3d-annotation-qc/
+pose-bbox-validator/
 ├── qc_checker.py                      # Script CLI kiểm tra chất lượng nhãn 3D & Pose
 ├── sample_data/
 │   └── frames_batch_01.json           # Batch dữ liệu mẫu gồm frame sạch và frame lỗi hình học
